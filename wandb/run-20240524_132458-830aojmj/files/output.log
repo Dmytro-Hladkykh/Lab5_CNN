@@ -1,0 +1,44 @@
+C:\Python311\Lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Python311\Lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+2024-05-24 13:25:04,207 - utils - INFO - Epoch 1/10:
+2024-05-24 13:41:34,020 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:41:49,970 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:41:49,970 - utils - INFO - Train Loss: 1.0907, Val Loss: 0.8465, Val Acc: 0.7071
+2024-05-24 13:41:49,970 - utils - INFO - Epoch 2/10:
+2024-05-24 13:42:15,425 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:42:30,849 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:42:30,849 - utils - INFO - Train Loss: 0.8182, Val Loss: 0.5788, Val Acc: 0.8012
+2024-05-24 13:42:30,849 - utils - INFO - Epoch 3/10:
+2024-05-24 13:42:56,154 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:43:11,983 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:43:11,983 - utils - INFO - Train Loss: 0.6897, Val Loss: 0.5319, Val Acc: 0.8175
+2024-05-24 13:43:11,983 - utils - INFO - Epoch 4/10:
+2024-05-24 13:43:37,107 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:43:52,911 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:43:52,911 - utils - INFO - Train Loss: 0.5298, Val Loss: 0.3672, Val Acc: 0.8776
+2024-05-24 13:43:52,911 - utils - INFO - Epoch 5/10:
+2024-05-24 13:44:18,277 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:44:33,723 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:44:33,725 - utils - INFO - Train Loss: 0.4921, Val Loss: 0.3232, Val Acc: 0.8910
+2024-05-24 13:44:33,725 - utils - INFO - Epoch 6/10:
+2024-05-24 13:44:59,140 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:45:14,991 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:45:14,991 - utils - INFO - Train Loss: 0.4868, Val Loss: 1.0607, Val Acc: 0.6677
+2024-05-24 13:45:14,991 - utils - INFO - Epoch 7/10:
+2024-05-24 13:45:40,043 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:45:55,740 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:45:55,740 - utils - INFO - Train Loss: 0.7014, Val Loss: 0.3064, Val Acc: 0.9014
+2024-05-24 13:45:55,740 - utils - INFO - Epoch 8/10:
+2024-05-24 13:46:21,321 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:46:36,657 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:46:36,659 - utils - INFO - Train Loss: 0.3353, Val Loss: 0.1896, Val Acc: 0.9397
+2024-05-24 13:46:36,659 - utils - INFO - Epoch 9/10:
+2024-05-24 13:47:02,058 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:47:17,949 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:47:17,950 - utils - INFO - Train Loss: 0.2420, Val Loss: 0.1779, Val Acc: 0.9389
+2024-05-24 13:47:17,950 - utils - INFO - Epoch 10/10:
+2024-05-24 13:47:43,467 - utils - INFO - Skipped 0 batches during training
+2024-05-24 13:47:58,977 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 13:47:58,978 - utils - INFO - Train Loss: 0.2917, Val Loss: 0.1558, Val Acc: 0.9467

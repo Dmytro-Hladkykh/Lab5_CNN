@@ -1,0 +1,6 @@
+batch_size: 64
+lr: 0.001
+num_epochs: 10
+train_val_split: 0.7
+num_batches: 5
+selected_batches: [1, 2, 3, 4, 5]
