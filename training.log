@@ -583,3 +583,4 @@
 2024-05-24 13:47:58,977 - utils - INFO - Skipped 0 batches during validation
 2024-05-24 13:47:58,978 - utils - INFO - Train Loss: 0.2917, Val Loss: 0.1558, Val Acc: 0.9467
 2024-05-24 13:50:19,852 - utils - INFO - Test Accuracy: 0.8087
+2024-05-24 14:10:14,236 - utils - INFO - Epoch 1/10:
