@@ -13,4 +13,4 @@ class Config:
         self.data_dir = "data"
         self.fixed_test_indices = list(range(7500))  
         self.test_batch_dir = "data/batches/test_batch"
-        self.wandb_api_key = "8ed2c566ccf6dbbc8c76b08d0db943adce25e876"  
+        self.wandb_api_key = ""  
