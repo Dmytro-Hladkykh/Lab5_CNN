@@ -14,3 +14,31 @@ C:\Python311\Lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Ar
 2024-05-24 14:29:52,061 - utils - INFO - Skipped 0 batches during training
 2024-05-24 14:30:13,563 - utils - INFO - Skipped 0 batches during validation
 2024-05-24 14:30:13,564 - utils - INFO - Train Loss: 0.6540, Val Loss: 0.4617, Val Acc: 0.8436
+2024-05-24 14:30:13,564 - utils - INFO - Epoch 4/10:
+2024-05-24 14:38:05,110 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:38:33,168 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:38:33,169 - utils - INFO - Train Loss: 0.5182, Val Loss: 0.6176, Val Acc: 0.7842
+2024-05-24 14:38:33,169 - utils - INFO - Epoch 5/10:
+2024-05-24 14:38:58,068 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:39:13,580 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:39:13,580 - utils - INFO - Train Loss: 0.4479, Val Loss: 0.3658, Val Acc: 0.8763
+2024-05-24 14:39:13,580 - utils - INFO - Epoch 6/10:
+2024-05-24 14:39:38,429 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:39:54,858 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:39:54,858 - utils - INFO - Train Loss: 0.5123, Val Loss: 1.1229, Val Acc: 0.6290
+2024-05-24 14:39:54,858 - utils - INFO - Epoch 7/10:
+2024-05-24 14:40:20,017 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:40:35,258 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:40:35,258 - utils - INFO - Train Loss: 0.4968, Val Loss: 0.2054, Val Acc: 0.9351
+2024-05-24 14:40:35,258 - utils - INFO - Epoch 8/10:
+2024-05-24 14:41:00,223 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:41:17,075 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:41:17,076 - utils - INFO - Train Loss: 0.3404, Val Loss: 0.3157, Val Acc: 0.8936
+2024-05-24 14:41:17,076 - utils - INFO - Epoch 9/10:
+2024-05-24 14:41:43,284 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:41:58,338 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:41:58,339 - utils - INFO - Train Loss: 0.2546, Val Loss: 0.1629, Val Acc: 0.9445
+2024-05-24 14:41:58,339 - utils - INFO - Epoch 10/10:
+2024-05-24 14:42:23,237 - utils - INFO - Skipped 0 batches during training
+2024-05-24 14:42:38,489 - utils - INFO - Skipped 0 batches during validation
+2024-05-24 14:42:38,490 - utils - INFO - Train Loss: 0.1970, Val Loss: 0.1251, Val Acc: 0.9587

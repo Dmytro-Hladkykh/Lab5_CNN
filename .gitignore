@@ -1,5 +1,7 @@
 __pycache__/
 data/
+wandb/
+interpretation_results/
 batches/
 combined_data/
 trained_model.pth/

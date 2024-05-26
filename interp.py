@@ -33,10 +33,12 @@ def interpret_model(config):
             attr_img = attributions[i].cpu().detach().numpy().transpose(1, 2, 0)
             plt.imshow(attr_img)
             plt.axis('off')
-            plt.savefig(os.path.join(output_dir, f"attr_{i}.png"))
+            img_path = os.path.join(output_dir, f"attr_{i}.png")
+            plt.savefig(img_path)
             plt.close()  
-            wandb.log({"interpretation": [wandb.Image(os.path.join(output_dir, f"attr_{i}.png"), caption=f"Label: {labels[i].item()}")]})
-
+            wandb.log({"interpretation": [wandb.Image(img_path, caption=f"Label: {labels[i].item()}")]})
+            os.remove(img_path)  
+            
 if __name__ == "__main__":
     from config import Config
     config = Config()
